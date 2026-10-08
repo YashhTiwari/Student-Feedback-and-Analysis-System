@@ -1,0 +1,41 @@
+teacher,rating,rating_says,predicted_sentiment,comment
+Dr. Verma,1,negative,positive,"Syllabus is okay, some topics feel outdated. Overall okay."
+Dr. Verma,2,negative,neutral,"Course is average, covers basics only."
+Dr. Singh,3,neutral,positive,"Teaching is okay, kuch topics samajh aate hain kuch nahi."
+Prof. Mishra,2,negative,neutral,"Behaviour is okay, not very friendly but not rude. Could be better."
+Prof. Gupta,2,negative,neutral,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Chal jata hai."
+Prof. Gupta,2,negative,neutral,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Could be better."
+Prof. Gupta,4,positive,neutral,"Content theek hai, par examples aur hone chahiye. Could be better."
+Prof. Gupta,4,positive,negative,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai."
+Prof. Mishra,3,neutral,positive,Lab is fine but sometimes the systems are slow.
+Dr. Verma,2,negative,neutral,"Padhai theek thaak hai, kabhi accha kabhi average. Could be better."
+Dr. Verma,4,positive,negative,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai."
+Prof. Gupta,2,negative,neutral,"Content theek hai, par examples aur hone chahiye. Chal jata hai."
+Prof. Gupta,2,negative,neutral,"Content theek hai, par examples aur hone chahiye. Overall okay."
+Dr. Verma,4,positive,neutral,"Behaviour is okay, not very friendly but not rude. Could be better."
+Prof. Mishra,5,positive,negative,"Terrible teaching, we have to study everything on our own."
+Prof. Mishra,3,neutral,negative,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai."
+Prof. Gupta,2,negative,neutral,"Lectures are average, nothing special but not bad either. Could be better."
+Dr. Verma,4,positive,neutral,"Assignments theek the, thoda zyada the but manageable."
+Prof. Gupta,3,neutral,negative,"Practicals theek hain, thoda aur time milna chahiye. Overall okay."
+Prof. Mishra,3,neutral,positive,Lab is fine but sometimes the systems are slow. Could be better.
+Dr. Singh,2,negative,neutral,"Practicals theek hain, thoda aur time milna chahiye. Could be better."
+Prof. Gupta,2,negative,neutral,"Teacher theek hain, kabhi kabhi class late start hoti hai. Could be better."
+Dr. Verma,4,positive,neutral,"Exam was moderate, some questions were tricky. Overall okay."
+Prof. Mishra,4,positive,neutral,"Assignments theek the, thoda zyada the but manageable."
+Dr. Verma,2,negative,positive,Assignments are useful and feedback on them is quick. Keep it up sir.
+Dr. Verma,3,neutral,positive,"Syllabus is okay, some topics feel outdated. Overall okay."
+Prof. Mishra,2,negative,neutral,"Practicals theek hain, thoda aur time milna chahiye. Chal jata hai."
+Dr. Singh,4,positive,neutral,"Lectures are average, nothing special but not bad either. Could be better."
+Prof. Mishra,1,negative,positive,"Mam bahut acche se explain karti hain, doubts clear ho jaate hain. Highly recommended!"
+Dr. Verma,4,positive,neutral,Lab is fine but sometimes the systems are slow. Chal jata hai.
+Dr. Verma,2,negative,neutral,"Course is average, covers basics only. Overall okay."
+Dr. Verma,2,negative,neutral,"Content theek hai, par examples aur hone chahiye. Overall okay."
+Dr. Verma,4,positive,neutral,"Behaviour is okay, not very friendly but not rude. Chal jata hai."
+Prof. Mishra,2,negative,positive,Study material is well organised and easy to follow.
+Dr. Verma,2,negative,neutral,"Lab work is okay, nothing great."
+Prof. Mishra,1,negative,positive,"Paper average tha, na bahut easy na bahut hard."
+Prof. Mishra,5,positive,negative,"Practical sessions are a waste of time, no proper guidance. Needs improvement."
+Dr. Singh,3,neutral,positive,"Best teacher, makes the subject interesting and easy to follow. Overall great experience."
+Dr. Singh,4,positive,neutral,"Exam was moderate, some questions were tricky."
+Dr. Singh,3,neutral,positive,Lab is fine but sometimes the systems are slow. Could be better.

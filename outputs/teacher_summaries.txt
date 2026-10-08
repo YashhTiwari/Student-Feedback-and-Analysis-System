@@ -1,0 +1,5 @@
+Dr. Singh (Operating Systems): Good. 58% positive, 26% negative from 90 responses (avg rating 3.42/5). Strongest area: Exams/Evaluation. Weakest area: Behaviour/Support (57% negative).
+Dr. Verma (Data Structures): Good. 61% positive, 31% negative from 90 responses (avg rating 3.33/5). Strongest area: Teaching. Weakest area: Exams/Evaluation (54% negative).
+Prof. Gupta (Database Systems): Needs urgent improvement. 18% positive, 57% negative from 87 responses (avg rating 2.33/5). Strongest area: Labs/Practicals. Weakest area: Course Content (67% negative).
+Prof. Mishra (Artificial Intelligence): Needs urgent improvement. 26% positive, 62% negative from 89 responses (avg rating 2.42/5). Strongest area: Course Content. Weakest area: Behaviour/Support (83% negative).
+Prof. Sharma (Artificial Intelligence): Excellent. 78% positive, 12% negative from 94 responses (avg rating 3.86/5). Strongest area: Course Content. Weakest area: Labs/Practicals (20% negative).

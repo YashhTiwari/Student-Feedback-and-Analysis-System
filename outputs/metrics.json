@@ -1,0 +1,20 @@
+{
+  "best_model": "Logistic Regression",
+  "results": {
+    "Naive Bayes": {
+      "accuracy": 0.8667,
+      "f1_macro": 0.8241,
+      "cv_accuracy": 0.88
+    },
+    "Logistic Regression": {
+      "accuracy": 0.8778,
+      "f1_macro": 0.8353,
+      "cv_accuracy": 0.86
+    },
+    "VADER (baseline)": {
+      "accuracy": 0.6556,
+      "f1_macro": 0.5278,
+      "cv_accuracy": null
+    }
+  }
+}

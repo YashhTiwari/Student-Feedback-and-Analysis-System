@@ -1,0 +1,451 @@
+student_id,teacher,subject,rating,comment,date
+S1223,Prof. Mishra,Artificial Intelligence,1,"Padhane ka tarika bekaar hai, speed bahut fast hai.",2026-01-05
+S1080,Dr. Verma,Data Structures,5,"Mam bahut acche se explain karti hain, doubts clear ho jaate hain. Highly recommended!",2026-01-05
+S1055,Prof. Gupta,Database Systems,3,"Exam was moderate, some questions were tricky. Chal jata hai.",2026-01-05
+S1112,Prof. Sharma,Artificial Intelligence,4,"Very helpful faculty, explains difficult topics in a simple way. Overall great experience.",2026-01-06
+S1028,Dr. Singh,Operating Systems,4,Mam hamesha time pe aati hain aur students ki help karti hain.,2026-01-06
+S1024,Dr. Verma,Data Structures,1,"Syllabus is okay, some topics feel outdated. Overall okay.",2026-01-06
+S1183,Dr. Verma,Data Structures,4,"Practical classes bahut helpful hain, hands-on experience accha hai. Mazaa aa gaya.",2026-01-07
+S1202,Dr. Singh,Operating Systems,1,"Practical sessions are a waste of time, no proper guidance. Hope things change.",2026-01-08
+S1210,Prof. Sharma,Artificial Intelligence,5,Mam hamesha time pe aati hain aur students ki help karti hain. Keep it up sir.,2026-01-08
+S1191,Dr. Singh,Operating Systems,1,Syllabus is outdated and not useful for jobs. Needs improvement.,2026-01-08
+S1235,Prof. Mishra,Artificial Intelligence,5,Study material is well organised and easy to follow. Overall great experience.,2026-01-09
+S1151,Prof. Sharma,Artificial Intelligence,4,Respectful teacher who motivates the whole class.,2026-01-10
+S1254,Dr. Verma,Data Structures,2,"Course is average, covers basics only.",2026-01-10
+S1038,Dr. Verma,Data Structures,1,Paper bahut tough tha aur syllabus se bahar ke questions aaye.,2026-01-10
+S1273,Dr. Singh,Operating Systems,5,"Course content bahut useful hai, industry ke kaam aayega. Keep it up sir.",2026-01-11
+S1285,Prof. Gupta,Database Systems,4,"Evaluation bahut fair hai, marks sahi milte hain. Keep it up sir.",2026-01-11
+S1052,Dr. Verma,Data Structures,4,"Good coverage of topics, notes bhi bahut helpful hain.",2026-01-11
+S1248,Dr. Singh,Operating Systems,1,Notes aur study material bilkul nahi diye jaate. Hope things change.,2026-01-12
+S1153,Prof. Gupta,Database Systems,1,"Padhane ka tarika bekaar hai, speed bahut fast hai. Needs improvement.",2026-01-12
+S1143,Prof. Mishra,Artificial Intelligence,2,Poor lab facilities and the instructor never helps in practicals. Needs improvement.,2026-01-13
+S1224,Dr. Singh,Operating Systems,4,"Lab sessions are very useful, practical knowledge mila. Highly recommended!",2026-01-13
+S1127,Prof. Mishra,Artificial Intelligence,1,"Concepts clear nahi hote, sirf slides padh ke chale jaate hain. Please fix this.",2026-01-13
+S1088,Dr. Verma,Data Structures,1,Syllabus is outdated and not useful for jobs. Bahut disappointing hai.,2026-01-15
+S1225,Prof. Mishra,Artificial Intelligence,5,Good lab guidance and the experiments are well planned. Keep it up sir.,2026-01-16
+S1093,Dr. Singh,Operating Systems,3,"Teaching is okay, kuch topics samajh aate hain kuch nahi.",2026-01-17
+S1049,Prof. Sharma,Artificial Intelligence,4,Syllabus is up to date and very relevant for placements. Mazaa aa gaya.,2026-01-17
+S1024,Prof. Sharma,Artificial Intelligence,1,"Bahut strict aur rude behaviour hai, koi support nahi milta. Please fix this.",2026-01-17
+S1236,Prof. Sharma,Artificial Intelligence,4,"Course content bahut useful hai, industry ke kaam aayega. Overall great experience.",2026-01-17
+S1243,Prof. Sharma,Artificial Intelligence,4,"Excellent teaching, concepts are explained very clearly with examples. Keep it up sir.",2026-01-19
+S1122,Dr. Verma,Data Structures,4,Syllabus is up to date and very relevant for placements. Mazaa aa gaya.,2026-01-19
+S1123,Prof. Gupta,Database Systems,1,Too many assignments and the deadlines are unreasonable. Please fix this.,2026-01-19
+S1015,Prof. Mishra,Artificial Intelligence,2,"Behaviour is okay, not very friendly but not rude. Could be better.",2026-01-20
+S1290,Prof. Gupta,Database Systems,2,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Chal jata hai.",2026-01-20
+S1165,Dr. Singh,Operating Systems,4,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Highly recommended!",2026-01-20
+S1069,Prof. Sharma,Artificial Intelligence,4,"Evaluation bahut fair hai, marks sahi milte hain. Keep it up sir.",2026-01-21
+S1142,Prof. Gupta,Database Systems,1,"Practical sessions are a waste of time, no proper guidance. Needs improvement.",2026-01-22
+S1189,Prof. Mishra,Artificial Intelligence,1,Teacher is rude and does not respect students. Bahut disappointing hai.,2026-01-22
+S1105,Prof. Mishra,Artificial Intelligence,1,Teacher does not clear doubts and ignores our questions. Please fix this.,2026-01-22
+S1051,Prof. Gupta,Database Systems,4,"Teaching is okay, kuch topics samajh aate hain kuch nahi.",2026-01-23
+S1181,Dr. Singh,Operating Systems,4,"Course content bahut useful hai, industry ke kaam aayega.",2026-01-23
+S1020,Prof. Sharma,Artificial Intelligence,4,"Lab sessions are very useful, practical knowledge mila. Mazaa aa gaya.",2026-01-23
+S1127,Dr. Verma,Data Structures,5,"Course content bahut useful hai, industry ke kaam aayega. Keep it up sir.",2026-01-24
+S1079,Prof. Sharma,Artificial Intelligence,4,Syllabus is up to date and very relevant for placements. Highly recommended!,2026-01-24
+S1079,Dr. Verma,Data Structures,1,"Exam pattern kabhi clear nahi hota, bahut confusion rehta hai. Please fix this.",2026-01-24
+S1029,Dr. Singh,Operating Systems,4,"Very helpful faculty, explains difficult topics in a simple way.",2026-01-24
+S1203,Prof. Mishra,Artificial Intelligence,1,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Needs improvement.,2026-01-24
+S1082,Prof. Sharma,Artificial Intelligence,5,"Excellent teaching, concepts are explained very clearly with examples. Mazaa aa gaya.",2026-01-24
+S1193,Prof. Gupta,Database Systems,1,"Terrible teaching, we have to study everything on our own.",2026-01-25
+S1148,Prof. Mishra,Artificial Intelligence,2,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai.",2026-01-25
+S1224,Dr. Singh,Operating Systems,4,Paper pattern clear tha aur syllabus ke andar tha. Mazaa aa gaya.,2026-01-25
+S1092,Dr. Verma,Data Structures,2,"Exam pattern kabhi clear nahi hota, bahut confusion rehta hai.",2026-01-25
+S1155,Prof. Sharma,Artificial Intelligence,5,"Sir ka padhane ka tarika bahut accha hai, sab kuch easily samajh aata hai. Highly recommended!",2026-01-26
+S1198,Prof. Sharma,Artificial Intelligence,5,"Very helpful faculty, explains difficult topics in a simple way. Keep it up sir.",2026-01-26
+S1128,Dr. Verma,Data Structures,1,Marking is unfair and we never get proper feedback on exams. Bahut disappointing hai.,2026-01-26
+S1279,Prof. Sharma,Artificial Intelligence,5,"Evaluation bahut fair hai, marks sahi milte hain. Highly recommended!",2026-01-27
+S1026,Prof. Gupta,Database Systems,1,Marking is unfair and we never get proper feedback on exams. Bahut disappointing hai.,2026-01-28
+S1171,Dr. Singh,Operating Systems,5,Good lab guidance and the experiments are well planned. Highly recommended!,2026-01-28
+S1067,Prof. Sharma,Artificial Intelligence,1,"Class mein bilkul maza nahi aata, lecture bahut boring hai. Hope things change.",2026-01-28
+S1043,Dr. Singh,Operating Systems,4,Assignments are useful and feedback on them is quick. Highly recommended!,2026-01-28
+S1015,Prof. Gupta,Database Systems,5,Good lab guidance and the experiments are well planned. Overall great experience.,2026-01-28
+S1138,Prof. Gupta,Database Systems,2,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Could be better.",2026-01-31
+S1259,Prof. Gupta,Database Systems,4,"Syllabus is okay, some topics feel outdated. Could be better.",2026-02-01
+S1190,Prof. Gupta,Database Systems,4,"Content theek hai, par examples aur hone chahiye. Could be better.",2026-02-01
+S1043,Prof. Mishra,Artificial Intelligence,1,Syllabus is outdated and not useful for jobs. Bahut disappointing hai.,2026-02-01
+S1299,Prof. Gupta,Database Systems,3,"Exam was moderate, some questions were tricky. Overall okay.",2026-02-01
+S1174,Prof. Gupta,Database Systems,2,Teaching is boring and the lectures are confusing.,2026-02-02
+S1098,Prof. Gupta,Database Systems,4,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai.",2026-02-02
+S1096,Prof. Mishra,Artificial Intelligence,3,Lab is fine but sometimes the systems are slow.,2026-02-02
+S1244,Prof. Gupta,Database Systems,3,"Content theek hai, par examples aur hone chahiye. Chal jata hai.",2026-02-03
+S1173,Prof. Mishra,Artificial Intelligence,2,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Hope things change.,2026-02-03
+S1252,Prof. Gupta,Database Systems,1,"Concepts clear nahi hote, sirf slides padh ke chale jaate hain. Needs improvement.",2026-02-03
+S1028,Prof. Mishra,Artificial Intelligence,1,"Practical sessions are a waste of time, no proper guidance. Hope things change.",2026-02-05
+S1272,Prof. Sharma,Artificial Intelligence,4,"Very friendly and approachable, always ready to help students. Overall great experience.",2026-02-06
+S1176,Prof. Sharma,Artificial Intelligence,4,Exams are fair and the paper was based on what was taught. Keep it up sir.,2026-02-06
+S1202,Prof. Mishra,Artificial Intelligence,2,Too many assignments and the deadlines are unreasonable. Please fix this.,2026-02-07
+S1013,Dr. Verma,Data Structures,1,"Not approachable at all, students are scared to ask questions. Please fix this.",2026-02-07
+S1282,Dr. Verma,Data Structures,2,"Padhai theek thaak hai, kabhi accha kabhi average. Could be better.",2026-02-07
+S1113,Dr. Verma,Data Structures,5,"Mam bahut acche se explain karti hain, doubts clear ho jaate hain. Overall great experience.",2026-02-07
+S1170,Prof. Sharma,Artificial Intelligence,5,"Very helpful faculty, explains difficult topics in a simple way. Highly recommended!",2026-02-08
+S1206,Prof. Mishra,Artificial Intelligence,2,"Concepts clear nahi hote, sirf slides padh ke chale jaate hain. Needs improvement.",2026-02-08
+S1102,Prof. Gupta,Database Systems,1,"Practical sessions are a waste of time, no proper guidance. Bahut disappointing hai.",2026-02-09
+S1263,Prof. Sharma,Artificial Intelligence,4,"Lab mein sab kuch implement karna sikhaya, really good. Keep it up sir.",2026-02-09
+S1051,Dr. Verma,Data Structures,3,"Practicals theek hain, thoda aur time milna chahiye.",2026-02-09
+S1234,Prof. Sharma,Artificial Intelligence,4,Respectful teacher who motivates the whole class. Highly recommended!,2026-02-10
+S1194,Dr. Verma,Data Structures,4,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai.",2026-02-11
+S1027,Prof. Mishra,Artificial Intelligence,4,"Lab sessions are very useful, practical knowledge mila. Keep it up sir.",2026-02-12
+S1252,Dr. Singh,Operating Systems,5,"Sir ka padhane ka tarika bahut accha hai, sab kuch easily samajh aata hai. Overall great experience.",2026-02-12
+S1197,Prof. Gupta,Database Systems,3,"Behaviour is okay, not very friendly but not rude.",2026-02-12
+S1249,Prof. Gupta,Database Systems,1,Course content is too heavy and badly organised. Hope things change.,2026-02-13
+S1192,Prof. Gupta,Database Systems,1,"Bahut tez padhate hain, kuch samajh nahi aata. Bahut disappointing hai.",2026-02-13
+S1003,Dr. Verma,Data Structures,2,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai.",2026-02-14
+S1030,Prof. Gupta,Database Systems,1,"Syllabus bahut zyada hai aur time kam, complete nahi hota. Please fix this.",2026-02-14
+S1134,Dr. Singh,Operating Systems,1,"Bahut tez padhate hain, kuch samajh nahi aata. Bahut disappointing hai.",2026-02-15
+S1121,Dr. Verma,Data Structures,4,"Padhai theek thaak hai, kabhi accha kabhi average.",2026-02-15
+S1218,Prof. Gupta,Database Systems,3,"Padhai theek thaak hai, kabhi accha kabhi average. Could be better.",2026-02-16
+S1180,Prof. Mishra,Artificial Intelligence,2,Too many assignments and the deadlines are unreasonable. Hope things change.,2026-02-17
+S1275,Dr. Verma,Data Structures,4,Lab is fine but sometimes the systems are slow. Could be better.,2026-02-17
+S1107,Dr. Singh,Operating Systems,5,"Lab mein sab kuch implement karna sikhaya, really good. Overall great experience.",2026-02-17
+S1218,Dr. Verma,Data Structures,1,"Syllabus bahut zyada hai aur time kam, complete nahi hota. Hope things change.",2026-02-18
+S1133,Prof. Gupta,Database Systems,3,"Teacher theek hain, kabhi kabhi class late start hoti hai. Could be better.",2026-02-19
+S1220,Prof. Sharma,Artificial Intelligence,4,Assignments are useful and feedback on them is quick. Overall great experience.,2026-02-19
+S1076,Prof. Mishra,Artificial Intelligence,4,"Great teacher, always patient and the lectures are engaging. Overall great experience.",2026-02-19
+S1166,Dr. Singh,Operating Systems,5,"Good coverage of topics, notes bhi bahut helpful hain. Mazaa aa gaya.",2026-02-20
+S1048,Dr. Verma,Data Structures,4,"Good coverage of topics, notes bhi bahut helpful hain.",2026-02-21
+S1196,Prof. Gupta,Database Systems,2,"Content theek hai, par examples aur hone chahiye. Chal jata hai.",2026-02-22
+S1260,Prof. Sharma,Artificial Intelligence,4,Respectful teacher who motivates the whole class. Overall great experience.,2026-02-22
+S1240,Prof. Mishra,Artificial Intelligence,3,"Syllabus is okay, some topics feel outdated. Chal jata hai.",2026-02-23
+S1252,Dr. Verma,Data Structures,4,"Evaluation bahut fair hai, marks sahi milte hain. Keep it up sir.",2026-02-24
+S1109,Prof. Sharma,Artificial Intelligence,4,"Very helpful faculty, explains difficult topics in a simple way. Keep it up sir.",2026-02-25
+S1258,Dr. Singh,Operating Systems,3,"Exam was moderate, some questions were tricky. Overall okay.",2026-02-25
+S1219,Prof. Sharma,Artificial Intelligence,1,Poor lab facilities and the instructor never helps in practicals. Hope things change.,2026-02-25
+S1163,Prof. Gupta,Database Systems,2,"Content theek hai, par examples aur hone chahiye. Overall okay.",2026-02-26
+S1261,Dr. Singh,Operating Systems,1,"Concepts clear nahi hote, sirf slides padh ke chale jaate hain. Bahut disappointing hai.",2026-02-26
+S1181,Dr. Verma,Data Structures,2,Course content is too heavy and badly organised. Hope things change.,2026-02-27
+S1236,Prof. Sharma,Artificial Intelligence,1,"Practical sessions are a waste of time, no proper guidance.",2026-02-27
+S1183,Dr. Verma,Data Structures,4,"Good coverage of topics, notes bhi bahut helpful hain. Mazaa aa gaya.",2026-02-27
+S1216,Dr. Verma,Data Structures,4,"Behaviour is okay, not very friendly but not rude. Could be better.",2026-02-28
+S1085,Prof. Mishra,Artificial Intelligence,2,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Needs improvement.,2026-02-28
+S1067,Dr. Verma,Data Structures,5,Syllabus is up to date and very relevant for placements. Highly recommended!,2026-02-28
+S1282,Prof. Mishra,Artificial Intelligence,1,"Syllabus bahut zyada hai aur time kam, complete nahi hota. Needs improvement.",2026-03-01
+S1001,Prof. Mishra,Artificial Intelligence,4,Study material is well organised and easy to follow. Overall great experience.,2026-03-01
+S1276,Prof. Sharma,Artificial Intelligence,4,"Great teacher, always patient and the lectures are engaging. Overall great experience.",2026-03-01
+S1278,Dr. Singh,Operating Systems,5,"Lab mein sab kuch implement karna sikhaya, really good.",2026-03-03
+S1127,Prof. Gupta,Database Systems,1,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Needs improvement.,2026-03-03
+S1146,Dr. Singh,Operating Systems,4,"Very friendly and approachable, always ready to help students.",2026-03-04
+S1059,Prof. Mishra,Artificial Intelligence,4,"Lab mein sab kuch implement karna sikhaya, really good. Overall great experience.",2026-03-04
+S1299,Dr. Verma,Data Structures,4,Exams are fair and the paper was based on what was taught. Keep it up sir.,2026-03-05
+S1047,Dr. Singh,Operating Systems,1,Teacher is rude and does not respect students. Needs improvement.,2026-03-06
+S1146,Prof. Gupta,Database Systems,2,"Exam pattern kabhi clear nahi hota, bahut confusion rehta hai. Please fix this.",2026-03-06
+S1164,Prof. Sharma,Artificial Intelligence,4,"Evaluation bahut fair hai, marks sahi milte hain.",2026-03-06
+S1157,Prof. Sharma,Artificial Intelligence,4,Syllabus is up to date and very relevant for placements. Overall great experience.,2026-03-07
+S1078,Prof. Sharma,Artificial Intelligence,3,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Chal jata hai.",2026-03-07
+S1294,Prof. Mishra,Artificial Intelligence,5,"Terrible teaching, we have to study everything on our own.",2026-03-07
+S1122,Prof. Mishra,Artificial Intelligence,3,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai.",2026-03-08
+S1055,Dr. Singh,Operating Systems,4,"Excellent teaching, concepts are explained very clearly with examples. Overall great experience.",2026-03-09
+S1142,Prof. Gupta,Database Systems,2,"Lectures are average, nothing special but not bad either. Could be better.",2026-03-09
+S1067,Prof. Sharma,Artificial Intelligence,5,Syllabus is up to date and very relevant for placements. Mazaa aa gaya.,2026-03-09
+S1191,Prof. Gupta,Database Systems,4,"Very friendly and approachable, always ready to help students. Keep it up sir.",2026-03-10
+S1123,Dr. Singh,Operating Systems,1,"Padhane ka tarika bekaar hai, speed bahut fast hai. Hope things change.",2026-03-10
+S1235,Dr. Verma,Data Structures,4,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Highly recommended!",2026-03-11
+S1074,Prof. Sharma,Artificial Intelligence,5,"Lab mein sab kuch implement karna sikhaya, really good. Mazaa aa gaya.",2026-03-11
+S1157,Dr. Verma,Data Structures,4,"Assignments theek the, thoda zyada the but manageable.",2026-03-12
+S1151,Prof. Mishra,Artificial Intelligence,3,"Paper average tha, na bahut easy na bahut hard. Chal jata hai.",2026-03-12
+S1065,Prof. Gupta,Database Systems,3,"Lab work is okay, nothing great. Chal jata hai.",2026-03-12
+S1060,Prof. Sharma,Artificial Intelligence,4,Good lab guidance and the experiments are well planned.,2026-03-13
+S1058,Prof. Sharma,Artificial Intelligence,3,"Behaviour is okay, not very friendly but not rude. Could be better.",2026-03-13
+S1007,Prof. Gupta,Database Systems,3,"Practicals theek hain, thoda aur time milna chahiye. Overall okay.",2026-03-13
+S1238,Dr. Verma,Data Structures,4,Study material is well organised and easy to follow. Highly recommended!,2026-03-13
+S1151,Prof. Sharma,Artificial Intelligence,3,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Could be better.",2026-03-13
+S1205,Prof. Mishra,Artificial Intelligence,3,"Exam was moderate, some questions were tricky. Chal jata hai.",2026-03-14
+S1127,Dr. Verma,Data Structures,2,"Concepts clear nahi hote, sirf slides padh ke chale jaate hain. Bahut disappointing hai.",2026-03-14
+S1259,Prof. Mishra,Artificial Intelligence,2,"Lab mein computers kaam nahi karte, practical ho hi nahi paata. Bahut disappointing hai.",2026-03-14
+S1154,Prof. Mishra,Artificial Intelligence,1,"Practical sessions are a waste of time, no proper guidance. Hope things change.",2026-03-14
+S1164,Prof. Sharma,Artificial Intelligence,2,"Practical sessions are a waste of time, no proper guidance. Bahut disappointing hai.",2026-03-14
+S1194,Prof. Gupta,Database Systems,1,"Concepts clear nahi hote, sirf slides padh ke chale jaate hain.",2026-03-15
+S1079,Prof. Sharma,Artificial Intelligence,1,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Needs improvement.,2026-03-15
+S1219,Prof. Gupta,Database Systems,5,"Lab mein sab kuch implement karna sikhaya, really good. Overall great experience.",2026-03-15
+S1163,Prof. Sharma,Artificial Intelligence,5,"Course content bahut useful hai, industry ke kaam aayega. Mazaa aa gaya.",2026-03-15
+S1001,Prof. Mishra,Artificial Intelligence,3,Lab is fine but sometimes the systems are slow. Could be better.,2026-03-16
+S1126,Prof. Sharma,Artificial Intelligence,4,Study material is well organised and easy to follow. Keep it up sir.,2026-03-16
+S1166,Prof. Gupta,Database Systems,4,"Teaching is okay, kuch topics samajh aate hain kuch nahi.",2026-03-16
+S1194,Prof. Gupta,Database Systems,3,"Practicals theek hain, thoda aur time milna chahiye. Could be better.",2026-03-17
+S1044,Dr. Singh,Operating Systems,5,Respectful teacher who motivates the whole class. Mazaa aa gaya.,2026-03-17
+S1226,Prof. Sharma,Artificial Intelligence,2,Paper bahut tough tha aur syllabus se bahar ke questions aaye. Please fix this.,2026-03-17
+S1044,Prof. Mishra,Artificial Intelligence,1,"Exam pattern kabhi clear nahi hota, bahut confusion rehta hai. Hope things change.",2026-03-17
+S1189,Prof. Mishra,Artificial Intelligence,3,"Exam was moderate, some questions were tricky. Could be better.",2026-03-18
+S1265,Prof. Mishra,Artificial Intelligence,5,"Practical classes bahut helpful hain, hands-on experience accha hai. Mazaa aa gaya.",2026-03-18
+S1291,Dr. Verma,Data Structures,1,"Lab mein computers kaam nahi karte, practical ho hi nahi paata. Needs improvement.",2026-03-19
+S1097,Dr. Singh,Operating Systems,1,"Bahut strict aur rude behaviour hai, koi support nahi milta. Bahut disappointing hai.",2026-03-19
+S1283,Dr. Singh,Operating Systems,4,Syllabus is up to date and very relevant for placements.,2026-03-19
+S1152,Prof. Gupta,Database Systems,1,"Practical sessions are a waste of time, no proper guidance. Bahut disappointing hai.",2026-03-19
+S1140,Dr. Verma,Data Structures,3,"Content theek hai, par examples aur hone chahiye.",2026-03-19
+S1275,Dr. Verma,Data Structures,5,"Great teacher, always patient and the lectures are engaging. Mazaa aa gaya.",2026-03-19
+S1074,Prof. Sharma,Artificial Intelligence,4,Mam hamesha time pe aati hain aur students ki help karti hain. Keep it up sir.,2026-03-20
+S1163,Prof. Gupta,Database Systems,1,Poor lab facilities and the instructor never helps in practicals. Bahut disappointing hai.,2026-03-20
+S1017,Dr. Singh,Operating Systems,4,"Course content bahut useful hai, industry ke kaam aayega. Highly recommended!",2026-03-21
+S1180,Dr. Singh,Operating Systems,2,Teacher is rude and does not respect students.,2026-03-22
+S1226,Dr. Verma,Data Structures,4,"Course content bahut useful hai, industry ke kaam aayega.",2026-03-22
+S1207,Dr. Singh,Operating Systems,3,"The teaching style is fine, can be improved a little. Could be better.",2026-03-22
+S1115,Prof. Gupta,Database Systems,2,Teacher does not clear doubts and ignores our questions. Hope things change.,2026-03-22
+S1069,Prof. Gupta,Database Systems,2,Course content is too heavy and badly organised. Hope things change.,2026-03-22
+S1023,Prof. Gupta,Database Systems,3,"The teaching style is fine, can be improved a little. Could be better.",2026-03-22
+S1170,Dr. Verma,Data Structures,1,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Hope things change.,2026-03-23
+S1004,Dr. Singh,Operating Systems,5,Paper pattern clear tha aur syllabus ke andar tha. Highly recommended!,2026-03-23
+S1185,Prof. Gupta,Database Systems,1,Teacher is rude and does not respect students. Hope things change.,2026-03-25
+S1098,Prof. Gupta,Database Systems,3,"Content theek hai, par examples aur hone chahiye. Could be better.",2026-03-26
+S1048,Dr. Singh,Operating Systems,2,"Practicals theek hain, thoda aur time milna chahiye. Could be better.",2026-03-26
+S1295,Prof. Gupta,Database Systems,1,"Bahut strict aur rude behaviour hai, koi support nahi milta. Please fix this.",2026-03-26
+S1068,Prof. Gupta,Database Systems,1,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Bahut disappointing hai.,2026-03-26
+S1014,Prof. Sharma,Artificial Intelligence,5,"Evaluation bahut fair hai, marks sahi milte hain. Keep it up sir.",2026-03-27
+S1170,Dr. Verma,Data Structures,2,"Syllabus bahut zyada hai aur time kam, complete nahi hota. Needs improvement.",2026-03-28
+S1041,Dr. Singh,Operating Systems,2,Syllabus is outdated and not useful for jobs. Hope things change.,2026-03-28
+S1287,Dr. Verma,Data Structures,5,Mam hamesha time pe aati hain aur students ki help karti hain. Overall great experience.,2026-03-29
+S1188,Prof. Gupta,Database Systems,2,"Teacher theek hain, kabhi kabhi class late start hoti hai. Could be better.",2026-03-30
+S1136,Dr. Verma,Data Structures,4,"Lab sessions are very useful, practical knowledge mila. Mazaa aa gaya.",2026-03-30
+S1204,Dr. Verma,Data Structures,4,"Exam was moderate, some questions were tricky. Overall okay.",2026-03-30
+S1176,Prof. Sharma,Artificial Intelligence,4,Paper pattern clear tha aur syllabus ke andar tha. Highly recommended!,2026-03-31
+S1054,Dr. Singh,Operating Systems,4,Exams are fair and the paper was based on what was taught. Overall great experience.,2026-03-31
+S1158,Prof. Mishra,Artificial Intelligence,2,Paper bahut tough tha aur syllabus se bahar ke questions aaye. Please fix this.,2026-04-01
+S1104,Dr. Singh,Operating Systems,4,"Mam bahut acche se explain karti hain, doubts clear ho jaate hain. Keep it up sir.",2026-04-02
+S1038,Prof. Sharma,Artificial Intelligence,4,Exams are fair and the paper was based on what was taught. Overall great experience.,2026-04-02
+S1058,Dr. Singh,Operating Systems,3,"Content theek hai, par examples aur hone chahiye. Could be better.",2026-04-03
+S1077,Prof. Mishra,Artificial Intelligence,4,"Assignments theek the, thoda zyada the but manageable.",2026-04-03
+S1274,Prof. Mishra,Artificial Intelligence,1,Teaching is boring and the lectures are confusing.,2026-04-03
+S1235,Dr. Verma,Data Structures,2,"The teaching style is fine, can be improved a little. Overall okay.",2026-04-04
+S1072,Dr. Singh,Operating Systems,5,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Mazaa aa gaya.",2026-04-04
+S1072,Prof. Sharma,Artificial Intelligence,5,Paper pattern clear tha aur syllabus ke andar tha. Overall great experience.,2026-04-04
+S1058,Dr. Singh,Operating Systems,4,"Paper average tha, na bahut easy na bahut hard.",2026-04-04
+S1225,Dr. Verma,Data Structures,4,Lab is fine but sometimes the systems are slow. Overall okay.,2026-04-04
+S1220,Dr. Singh,Operating Systems,5,"Good coverage of topics, notes bhi bahut helpful hain. Highly recommended!",2026-04-05
+S1159,Prof. Gupta,Database Systems,1,Course content is too heavy and badly organised. Hope things change.,2026-04-05
+S1129,Prof. Sharma,Artificial Intelligence,1,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Please fix this.,2026-04-05
+S1049,Dr. Singh,Operating Systems,5,"Practical classes bahut helpful hain, hands-on experience accha hai. Mazaa aa gaya.",2026-04-06
+S1020,Prof. Sharma,Artificial Intelligence,3,"Behaviour is okay, not very friendly but not rude.",2026-04-06
+S1250,Prof. Gupta,Database Systems,3,"Teacher theek hain, kabhi kabhi class late start hoti hai.",2026-04-06
+S1194,Prof. Sharma,Artificial Intelligence,4,Mam hamesha time pe aati hain aur students ki help karti hain.,2026-04-06
+S1204,Prof. Gupta,Database Systems,4,Respectful teacher who motivates the whole class.,2026-04-07
+S1039,Dr. Singh,Operating Systems,4,Good lab guidance and the experiments are well planned. Mazaa aa gaya.,2026-04-07
+S1135,Prof. Gupta,Database Systems,3,"Content theek hai, par examples aur hone chahiye. Overall okay.",2026-04-08
+S1201,Dr. Singh,Operating Systems,2,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Hope things change.,2026-04-08
+S1278,Dr. Verma,Data Structures,4,"Teacher theek hain, kabhi kabhi class late start hoti hai. Overall okay.",2026-04-08
+S1230,Dr. Verma,Data Structures,2,Assignments are useful and feedback on them is quick. Keep it up sir.,2026-04-09
+S1151,Prof. Sharma,Artificial Intelligence,4,Good lab guidance and the experiments are well planned.,2026-04-09
+S1230,Prof. Mishra,Artificial Intelligence,4,"Lab mein sab kuch implement karna sikhaya, really good. Highly recommended!",2026-04-09
+S1004,Prof. Sharma,Artificial Intelligence,3,"Assignments theek the, thoda zyada the but manageable. Could be better.",2026-04-09
+S1233,Dr. Singh,Operating Systems,5,"Lab sessions are very useful, practical knowledge mila. Highly recommended!",2026-04-10
+S1089,Dr. Singh,Operating Systems,3,"Lab work is okay, nothing great. Could be better.",2026-04-11
+S1166,Prof. Mishra,Artificial Intelligence,4,"Lab mein sab kuch implement karna sikhaya, really good.",2026-04-12
+S1070,Prof. Sharma,Artificial Intelligence,4,"Excellent teaching, concepts are explained very clearly with examples. Mazaa aa gaya.",2026-04-12
+S1195,Dr. Singh,Operating Systems,4,Syllabus is up to date and very relevant for placements. Mazaa aa gaya.,2026-04-13
+S1117,Dr. Singh,Operating Systems,5,Exams are fair and the paper was based on what was taught. Keep it up sir.,2026-04-13
+S1001,Dr. Verma,Data Structures,5,"Course content bahut useful hai, industry ke kaam aayega. Keep it up sir.",2026-04-14
+S1144,Dr. Verma,Data Structures,3,"Course is average, covers basics only. Chal jata hai.",2026-04-14
+S1078,Prof. Gupta,Database Systems,1,Teaching is boring and the lectures are confusing. Bahut disappointing hai.,2026-04-14
+S1278,Prof. Sharma,Artificial Intelligence,4,"Good coverage of topics, notes bhi bahut helpful hain. Keep it up sir.",2026-04-14
+S1049,Prof. Sharma,Artificial Intelligence,4,Study material is well organised and easy to follow.,2026-04-15
+S1275,Dr. Singh,Operating Systems,5,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Mazaa aa gaya.",2026-04-15
+S1293,Prof. Gupta,Database Systems,1,Marking is unfair and we never get proper feedback on exams. Please fix this.,2026-04-15
+S1025,Prof. Mishra,Artificial Intelligence,2,"Not approachable at all, students are scared to ask questions. Bahut disappointing hai.",2026-04-15
+S1018,Prof. Mishra,Artificial Intelligence,3,"Lectures are average, nothing special but not bad either.",2026-04-16
+S1104,Prof. Sharma,Artificial Intelligence,5,"Lab sessions are very useful, practical knowledge mila. Keep it up sir.",2026-04-16
+S1003,Prof. Gupta,Database Systems,1,Notes aur study material bilkul nahi diye jaate. Hope things change.,2026-04-16
+S1273,Dr. Singh,Operating Systems,4,"Excellent teaching, concepts are explained very clearly with examples. Keep it up sir.",2026-04-16
+S1258,Dr. Singh,Operating Systems,4,"Evaluation bahut fair hai, marks sahi milte hain. Mazaa aa gaya.",2026-04-16
+S1223,Prof. Gupta,Database Systems,1,Teacher does not clear doubts and ignores our questions. Bahut disappointing hai.,2026-04-17
+S1023,Prof. Sharma,Artificial Intelligence,5,"Sir ka padhane ka tarika bahut accha hai, sab kuch easily samajh aata hai. Highly recommended!",2026-04-17
+S1120,Dr. Verma,Data Structures,5,"Very friendly and approachable, always ready to help students. Highly recommended!",2026-04-18
+S1167,Prof. Gupta,Database Systems,2,"Class mein bilkul maza nahi aata, lecture bahut boring hai.",2026-04-18
+S1154,Prof. Gupta,Database Systems,3,"Practicals theek hain, thoda aur time milna chahiye.",2026-04-18
+S1219,Prof. Mishra,Artificial Intelligence,1,Syllabus is outdated and not useful for jobs. Please fix this.,2026-04-18
+S1282,Dr. Singh,Operating Systems,4,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Highly recommended!",2026-04-19
+S1097,Dr. Verma,Data Structures,3,"Syllabus is okay, some topics feel outdated. Overall okay.",2026-04-19
+S1077,Dr. Verma,Data Structures,4,"Great teacher, always patient and the lectures are engaging. Overall great experience.",2026-04-20
+S1266,Dr. Singh,Operating Systems,1,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Needs improvement.,2026-04-20
+S1013,Prof. Mishra,Artificial Intelligence,4,Syllabus is up to date and very relevant for placements. Highly recommended!,2026-04-21
+S1191,Prof. Mishra,Artificial Intelligence,2,"Practicals theek hain, thoda aur time milna chahiye. Chal jata hai.",2026-04-21
+S1256,Dr. Verma,Data Structures,4,"Lecture ekdum mast hota hai, class mein maza aata hai.",2026-04-21
+S1105,Dr. Verma,Data Structures,4,Study material is well organised and easy to follow.,2026-04-22
+S1276,Prof. Sharma,Artificial Intelligence,4,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Keep it up sir.",2026-04-22
+S1064,Prof. Sharma,Artificial Intelligence,5,"Lab mein sab kuch implement karna sikhaya, really good. Overall great experience.",2026-04-22
+S1122,Prof. Mishra,Artificial Intelligence,2,"Class mein bilkul maza nahi aata, lecture bahut boring hai. Please fix this.",2026-04-22
+S1291,Prof. Mishra,Artificial Intelligence,5,"Very helpful faculty, explains difficult topics in a simple way. Mazaa aa gaya.",2026-04-22
+S1121,Prof. Sharma,Artificial Intelligence,1,"Padhane ka tarika bekaar hai, speed bahut fast hai. Bahut disappointing hai.",2026-04-22
+S1267,Dr. Singh,Operating Systems,1,Sir hamesha late aate hain aur class jaldi khatam kar dete hain.,2026-04-22
+S1157,Prof. Mishra,Artificial Intelligence,1,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Needs improvement.,2026-04-22
+S1278,Prof. Mishra,Artificial Intelligence,4,"Lab sessions are very useful, practical knowledge mila. Overall great experience.",2026-04-23
+S1119,Prof. Gupta,Database Systems,2,"Lab mein computers kaam nahi karte, practical ho hi nahi paata. Hope things change.",2026-04-24
+S1160,Dr. Singh,Operating Systems,4,"Lab sessions are very useful, practical knowledge mila. Mazaa aa gaya.",2026-04-24
+S1015,Prof. Mishra,Artificial Intelligence,1,Teacher does not clear doubts and ignores our questions.,2026-04-25
+S1160,Prof. Mishra,Artificial Intelligence,1,Paper bahut tough tha aur syllabus se bahar ke questions aaye. Needs improvement.,2026-04-26
+S1147,Dr. Singh,Operating Systems,4,"Lectures are average, nothing special but not bad either. Could be better.",2026-04-27
+S1051,Dr. Verma,Data Structures,4,"Mam bahut acche se explain karti hain, doubts clear ho jaate hain.",2026-04-27
+S1044,Dr. Verma,Data Structures,4,"Best teacher, makes the subject interesting and easy to follow. Mazaa aa gaya.",2026-04-27
+S1139,Prof. Mishra,Artificial Intelligence,1,"Mam bahut acche se explain karti hain, doubts clear ho jaate hain. Highly recommended!",2026-04-28
+S1240,Dr. Singh,Operating Systems,3,"Teacher theek hain, kabhi kabhi class late start hoti hai. Could be better.",2026-04-28
+S1121,Dr. Verma,Data Structures,5,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Keep it up sir.",2026-04-28
+S1213,Prof. Mishra,Artificial Intelligence,5,"Excellent teaching, concepts are explained very clearly with examples. Overall great experience.",2026-04-28
+S1195,Prof. Sharma,Artificial Intelligence,4,"Practical classes bahut helpful hain, hands-on experience accha hai. Keep it up sir.",2026-04-29
+S1264,Prof. Mishra,Artificial Intelligence,2,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Hope things change.,2026-04-30
+S1243,Prof. Gupta,Database Systems,2,"Syllabus bahut zyada hai aur time kam, complete nahi hota.",2026-04-30
+S1055,Prof. Mishra,Artificial Intelligence,4,"Best teacher, makes the subject interesting and easy to follow. Keep it up sir.",2026-04-30
+S1236,Prof. Gupta,Database Systems,1,Teacher is rude and does not respect students. Bahut disappointing hai.,2026-04-30
+S1139,Prof. Sharma,Artificial Intelligence,5,"Very friendly and approachable, always ready to help students. Mazaa aa gaya.",2026-04-30
+S1037,Prof. Gupta,Database Systems,1,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Hope things change.,2026-04-30
+S1101,Dr. Verma,Data Structures,5,Lab is fine but sometimes the systems are slow.,2026-04-30
+S1037,Dr. Verma,Data Structures,4,Lab is fine but sometimes the systems are slow. Chal jata hai.,2026-05-01
+S1212,Dr. Singh,Operating Systems,4,Mam hamesha time pe aati hain aur students ki help karti hain. Overall great experience.,2026-05-01
+S1188,Dr. Singh,Operating Systems,4,"Excellent teaching, concepts are explained very clearly with examples. Keep it up sir.",2026-05-01
+S1204,Prof. Gupta,Database Systems,1,Teacher does not clear doubts and ignores our questions. Bahut disappointing hai.,2026-05-01
+S1265,Prof. Sharma,Artificial Intelligence,3,"The teaching style is fine, can be improved a little. Chal jata hai.",2026-05-03
+S1196,Prof. Sharma,Artificial Intelligence,4,Exams are fair and the paper was based on what was taught. Overall great experience.,2026-05-03
+S1218,Dr. Verma,Data Structures,1,"Practical sessions are a waste of time, no proper guidance.",2026-05-03
+S1164,Prof. Mishra,Artificial Intelligence,2,Too many assignments and the deadlines are unreasonable. Please fix this.,2026-05-04
+S1169,Prof. Sharma,Artificial Intelligence,5,"Sir bahut supportive hain, kabhi bhi doubt puch sakte hain. Highly recommended!",2026-05-05
+S1035,Prof. Mishra,Artificial Intelligence,4,Study material is well organised and easy to follow. Overall great experience.,2026-05-05
+S1275,Prof. Gupta,Database Systems,2,Notes aur study material bilkul nahi diye jaate. Bahut disappointing hai.,2026-05-06
+S1041,Prof. Mishra,Artificial Intelligence,1,"Bahut tez padhate hain, kuch samajh nahi aata. Please fix this.",2026-05-06
+S1025,Prof. Mishra,Artificial Intelligence,2,Syllabus is outdated and not useful for jobs. Hope things change.,2026-05-06
+S1004,Dr. Verma,Data Structures,2,"Practical sessions are a waste of time, no proper guidance. Bahut disappointing hai.",2026-05-06
+S1243,Prof. Sharma,Artificial Intelligence,5,"Lab sessions are very useful, practical knowledge mila.",2026-05-07
+S1183,Dr. Singh,Operating Systems,5,"Practical classes bahut helpful hain, hands-on experience accha hai.",2026-05-07
+S1275,Dr. Singh,Operating Systems,2,Notes aur study material bilkul nahi diye jaate.,2026-05-08
+S1196,Prof. Gupta,Database Systems,2,Course content is too heavy and badly organised. Hope things change.,2026-05-08
+S1208,Dr. Singh,Operating Systems,3,"Lectures are average, nothing special but not bad either.",2026-05-09
+S1230,Prof. Mishra,Artificial Intelligence,1,"Bahut strict aur rude behaviour hai, koi support nahi milta. Bahut disappointing hai.",2026-05-10
+S1227,Dr. Singh,Operating Systems,4,"Good coverage of topics, notes bhi bahut helpful hain. Keep it up sir.",2026-05-10
+S1240,Prof. Mishra,Artificial Intelligence,1,Teacher is rude and does not respect students. Needs improvement.,2026-05-11
+S1003,Dr. Verma,Data Structures,4,"Practical classes bahut helpful hain, hands-on experience accha hai. Mazaa aa gaya.",2026-05-12
+S1125,Dr. Singh,Operating Systems,4,"Lab mein sab kuch implement karna sikhaya, really good. Highly recommended!",2026-05-12
+S1028,Prof. Mishra,Artificial Intelligence,4,"Very friendly and approachable, always ready to help students. Keep it up sir.",2026-05-12
+S1053,Prof. Mishra,Artificial Intelligence,5,Respectful teacher who motivates the whole class.,2026-05-12
+S1243,Prof. Mishra,Artificial Intelligence,1,"Terrible teaching, we have to study everything on our own.",2026-05-13
+S1047,Prof. Sharma,Artificial Intelligence,4,Respectful teacher who motivates the whole class. Highly recommended!,2026-05-13
+S1205,Prof. Gupta,Database Systems,1,Too many assignments and the deadlines are unreasonable. Please fix this.,2026-05-13
+S1017,Prof. Mishra,Artificial Intelligence,2,Notes aur study material bilkul nahi diye jaate. Hope things change.,2026-05-13
+S1149,Prof. Sharma,Artificial Intelligence,5,"Best teacher, makes the subject interesting and easy to follow. Overall great experience.",2026-05-15
+S1039,Prof. Sharma,Artificial Intelligence,4,Assignments are useful and feedback on them is quick. Highly recommended!,2026-05-15
+S1053,Dr. Singh,Operating Systems,2,"Teacher theek hain, kabhi kabhi class late start hoti hai. Chal jata hai.",2026-05-15
+S1036,Prof. Sharma,Artificial Intelligence,5,"Great teacher, always patient and the lectures are engaging. Overall great experience.",2026-05-16
+S1206,Prof. Sharma,Artificial Intelligence,5,Assignments are useful and feedback on them is quick. Mazaa aa gaya.,2026-05-16
+S1158,Dr. Singh,Operating Systems,5,"Lab sessions are very useful, practical knowledge mila. Highly recommended!",2026-05-16
+S1202,Prof. Mishra,Artificial Intelligence,5,"Evaluation bahut fair hai, marks sahi milte hain. Overall great experience.",2026-05-16
+S1188,Dr. Singh,Operating Systems,2,Course content is too heavy and badly organised. Please fix this.,2026-05-17
+S1115,Prof. Sharma,Artificial Intelligence,5,"Great teacher, always patient and the lectures are engaging. Keep it up sir.",2026-05-17
+S1267,Dr. Verma,Data Structures,4,"Lab sessions are very useful, practical knowledge mila. Highly recommended!",2026-05-17
+S1134,Prof. Mishra,Artificial Intelligence,5,"Excellent teaching, concepts are explained very clearly with examples. Keep it up sir.",2026-05-18
+S1205,Dr. Singh,Operating Systems,1,Paper bahut tough tha aur syllabus se bahar ke questions aaye. Hope things change.,2026-05-19
+S1043,Dr. Verma,Data Structures,4,"Very helpful faculty, explains difficult topics in a simple way. Highly recommended!",2026-05-19
+S1041,Prof. Mishra,Artificial Intelligence,1,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Please fix this.,2026-05-19
+S1195,Dr. Verma,Data Structures,3,"Course is average, covers basics only.",2026-05-19
+S1010,Prof. Gupta,Database Systems,5,"Excellent teaching, concepts are explained very clearly with examples. Overall great experience.",2026-05-19
+S1239,Dr. Verma,Data Structures,2,"Course is average, covers basics only. Overall okay.",2026-05-20
+S1276,Prof. Gupta,Database Systems,2,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Please fix this.,2026-05-20
+S1257,Dr. Verma,Data Structures,4,"Sir ka padhane ka tarika bahut accha hai, sab kuch easily samajh aata hai. Mazaa aa gaya.",2026-05-20
+S1125,Prof. Sharma,Artificial Intelligence,4,"Samjhane ka style kamaal ka hai, real life examples dete hain. Mazaa aa gaya.",2026-05-20
+S1187,Prof. Gupta,Database Systems,3,"Syllabus is okay, some topics feel outdated. Chal jata hai.",2026-05-20
+S1257,Prof. Gupta,Database Systems,2,"Bahut strict aur rude behaviour hai, koi support nahi milta. Hope things change.",2026-05-20
+S1048,Prof. Sharma,Artificial Intelligence,4,"Best teacher, makes the subject interesting and easy to follow. Keep it up sir.",2026-05-20
+S1007,Prof. Gupta,Database Systems,2,Lab sessions bahut kam hote hain aur experiments samajh nahi aate. Please fix this.,2026-05-21
+S1205,Dr. Verma,Data Structures,4,"Syllabus is okay, some topics feel outdated.",2026-05-21
+S1130,Prof. Sharma,Artificial Intelligence,5,"Lab sessions are very useful, practical knowledge mila. Mazaa aa gaya.",2026-05-21
+S1281,Dr. Verma,Data Structures,2,Syllabus is outdated and not useful for jobs. Bahut disappointing hai.,2026-05-23
+S1252,Prof. Sharma,Artificial Intelligence,5,"Evaluation bahut fair hai, marks sahi milte hain.",2026-05-23
+S1176,Dr. Verma,Data Structures,1,Teacher is rude and does not respect students. Please fix this.,2026-05-23
+S1076,Dr. Singh,Operating Systems,3,"Course is average, covers basics only. Overall okay.",2026-05-24
+S1188,Prof. Gupta,Database Systems,5,"Course content bahut useful hai, industry ke kaam aayega. Mazaa aa gaya.",2026-05-24
+S1092,Prof. Gupta,Database Systems,1,Syllabus is outdated and not useful for jobs. Hope things change.,2026-05-24
+S1143,Prof. Sharma,Artificial Intelligence,5,Mam hamesha time pe aati hain aur students ki help karti hain. Mazaa aa gaya.,2026-05-24
+S1179,Prof. Sharma,Artificial Intelligence,4,"Course content bahut useful hai, industry ke kaam aayega. Keep it up sir.",2026-05-24
+S1217,Dr. Verma,Data Structures,4,Respectful teacher who motivates the whole class. Keep it up sir.,2026-05-25
+S1205,Prof. Sharma,Artificial Intelligence,3,"Assignments theek the, thoda zyada the but manageable.",2026-05-25
+S1076,Dr. Verma,Data Structures,2,"Content theek hai, par examples aur hone chahiye. Overall okay.",2026-05-25
+S1172,Dr. Verma,Data Structures,2,Poor lab facilities and the instructor never helps in practicals. Bahut disappointing hai.,2026-05-25
+S1284,Prof. Sharma,Artificial Intelligence,4,"Evaluation bahut fair hai, marks sahi milte hain. Overall great experience.",2026-05-25
+S1190,Dr. Singh,Operating Systems,1,"Practical sessions are a waste of time, no proper guidance. Bahut disappointing hai.",2026-05-26
+S1141,Dr. Singh,Operating Systems,4,Assignments are useful and feedback on them is quick. Mazaa aa gaya.,2026-05-27
+S1179,Prof. Sharma,Artificial Intelligence,5,"Practical classes bahut helpful hain, hands-on experience accha hai. Keep it up sir.",2026-05-27
+S1213,Dr. Verma,Data Structures,1,Marking is unfair and we never get proper feedback on exams. Hope things change.,2026-05-27
+S1088,Dr. Verma,Data Structures,4,"Syllabus is okay, some topics feel outdated.",2026-05-27
+S1013,Prof. Mishra,Artificial Intelligence,3,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Chal jata hai.",2026-05-28
+S1287,Dr. Singh,Operating Systems,5,"Evaluation bahut fair hai, marks sahi milte hain.",2026-05-28
+S1263,Prof. Mishra,Artificial Intelligence,5,Assignments are useful and feedback on them is quick. Keep it up sir.,2026-05-28
+S1191,Prof. Mishra,Artificial Intelligence,1,Syllabus is outdated and not useful for jobs. Needs improvement.,2026-05-28
+S1172,Dr. Verma,Data Structures,4,"Behaviour is okay, not very friendly but not rude. Chal jata hai.",2026-05-29
+S1166,Prof. Mishra,Artificial Intelligence,3,"Content theek hai, par examples aur hone chahiye. Could be better.",2026-05-30
+S1151,Prof. Gupta,Database Systems,5,Study material is well organised and easy to follow. Highly recommended!,2026-05-30
+S1006,Dr. Verma,Data Structures,4,"Samjhane ka style kamaal ka hai, real life examples dete hain. Highly recommended!",2026-05-31
+S1122,Prof. Mishra,Artificial Intelligence,1,"Syllabus bahut zyada hai aur time kam, complete nahi hota. Bahut disappointing hai.",2026-05-31
+S1107,Prof. Sharma,Artificial Intelligence,4,"Teaching is okay, kuch topics samajh aate hain kuch nahi. Overall okay.",2026-05-31
+S1083,Prof. Mishra,Artificial Intelligence,1,"Practicals theek hain, thoda aur time milna chahiye. Overall okay.",2026-05-31
+S1292,Dr. Verma,Data Structures,5,"Course content bahut useful hai, industry ke kaam aayega.",2026-06-01
+S1159,Prof. Mishra,Artificial Intelligence,1,"Concepts clear nahi hote, sirf slides padh ke chale jaate hain. Bahut disappointing hai.",2026-06-01
+S1160,Dr. Singh,Operating Systems,2,"Padhane ka tarika bekaar hai, speed bahut fast hai. Needs improvement.",2026-06-01
+S1209,Prof. Mishra,Artificial Intelligence,2,"Class mein bilkul maza nahi aata, lecture bahut boring hai. Hope things change.",2026-06-01
+S1296,Prof. Sharma,Artificial Intelligence,1,"Not approachable at all, students are scared to ask questions. Needs improvement.",2026-06-01
+S1032,Prof. Mishra,Artificial Intelligence,3,"Lectures are average, nothing special but not bad either. Chal jata hai.",2026-06-01
+S1112,Dr. Verma,Data Structures,5,"Lab mein sab kuch implement karna sikhaya, really good.",2026-06-01
+S1288,Dr. Verma,Data Structures,4,"Lab sessions are very useful, practical knowledge mila. Highly recommended!",2026-06-02
+S1299,Prof. Gupta,Database Systems,3,"Lectures are average, nothing special but not bad either. Chal jata hai.",2026-06-02
+S1285,Dr. Singh,Operating Systems,4,"Samjhane ka style kamaal ka hai, real life examples dete hain. Highly recommended!",2026-06-02
+S1298,Prof. Gupta,Database Systems,3,"Teacher theek hain, kabhi kabhi class late start hoti hai.",2026-06-02
+S1105,Prof. Mishra,Artificial Intelligence,2,Lab sessions bahut kam hote hain aur experiments samajh nahi aate.,2026-06-03
+S1294,Prof. Mishra,Artificial Intelligence,2,Study material is well organised and easy to follow.,2026-06-04
+S1176,Prof. Sharma,Artificial Intelligence,3,"Content theek hai, par examples aur hone chahiye. Chal jata hai.",2026-06-04
+S1290,Prof. Mishra,Artificial Intelligence,2,"Padhane ka tarika bekaar hai, speed bahut fast hai. Needs improvement.",2026-06-04
+S1242,Prof. Sharma,Artificial Intelligence,4,"Lab mein sab kuch implement karna sikhaya, really good. Keep it up sir.",2026-06-04
+S1153,Prof. Gupta,Database Systems,1,Marking is unfair and we never get proper feedback on exams. Hope things change.,2026-06-05
+S1285,Prof. Gupta,Database Systems,2,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Hope things change.,2026-06-05
+S1183,Dr. Singh,Operating Systems,4,"Practical classes bahut helpful hain, hands-on experience accha hai. Highly recommended!",2026-06-05
+S1286,Prof. Sharma,Artificial Intelligence,4,"Best teacher, makes the subject interesting and easy to follow. Highly recommended!",2026-06-06
+S1268,Prof. Sharma,Artificial Intelligence,4,"Practical classes bahut helpful hain, hands-on experience accha hai. Highly recommended!",2026-06-06
+S1051,Prof. Sharma,Artificial Intelligence,3,"Course is average, covers basics only. Overall okay.",2026-06-06
+S1214,Prof. Sharma,Artificial Intelligence,5,"Mam bahut acche se explain karti hain, doubts clear ho jaate hain. Mazaa aa gaya.",2026-06-06
+S1163,Prof. Mishra,Artificial Intelligence,2,Too many assignments and the deadlines are unreasonable. Hope things change.,2026-06-06
+S1075,Dr. Verma,Data Structures,5,Syllabus is up to date and very relevant for placements. Keep it up sir.,2026-06-06
+S1085,Dr. Verma,Data Structures,4,"Great teacher, always patient and the lectures are engaging. Keep it up sir.",2026-06-09
+S1084,Prof. Sharma,Artificial Intelligence,4,Lab is fine but sometimes the systems are slow. Could be better.,2026-06-11
+S1017,Prof. Gupta,Database Systems,4,"Lab mein sab kuch implement karna sikhaya, really good. Mazaa aa gaya.",2026-06-11
+S1195,Dr. Singh,Operating Systems,3,Lab is fine but sometimes the systems are slow. Chal jata hai.,2026-06-12
+S1087,Dr. Singh,Operating Systems,3,"Content theek hai, par examples aur hone chahiye. Overall okay.",2026-06-12
+S1043,Dr. Verma,Data Structures,4,"Good coverage of topics, notes bhi bahut helpful hain. Highly recommended!",2026-06-12
+S1073,Dr. Singh,Operating Systems,5,"Good coverage of topics, notes bhi bahut helpful hain. Overall great experience.",2026-06-12
+S1169,Prof. Mishra,Artificial Intelligence,2,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Bahut disappointing hai.,2026-06-13
+S1185,Prof. Sharma,Artificial Intelligence,5,Mam hamesha time pe aati hain aur students ki help karti hain. Keep it up sir.,2026-06-13
+S1224,Prof. Sharma,Artificial Intelligence,5,"Sir ka padhane ka tarika bahut accha hai, sab kuch easily samajh aata hai. Highly recommended!",2026-06-13
+S1078,Dr. Verma,Data Structures,1,Poor lab facilities and the instructor never helps in practicals. Needs improvement.,2026-06-14
+S1106,Prof. Mishra,Artificial Intelligence,1,Paper bahut tough tha aur syllabus se bahar ke questions aaye.,2026-06-14
+S1070,Prof. Mishra,Artificial Intelligence,2,"Practical sessions are a waste of time, no proper guidance.",2026-06-14
+S1137,Dr. Verma,Data Structures,2,"Lab work is okay, nothing great.",2026-06-14
+S1120,Prof. Mishra,Artificial Intelligence,1,"Paper average tha, na bahut easy na bahut hard.",2026-06-15
+S1185,Prof. Mishra,Artificial Intelligence,1,"Padhane ka tarika bekaar hai, speed bahut fast hai. Hope things change.",2026-06-16
+S1177,Prof. Mishra,Artificial Intelligence,5,"Practical sessions are a waste of time, no proper guidance. Needs improvement.",2026-06-16
+S1255,Dr. Singh,Operating Systems,4,"Great teacher, always patient and the lectures are engaging. Keep it up sir.",2026-06-17
+S1223,Dr. Singh,Operating Systems,3,"Assignments theek the, thoda zyada the but manageable. Could be better.",2026-06-17
+S1141,Prof. Mishra,Artificial Intelligence,1,Paper bahut tough tha aur syllabus se bahar ke questions aaye. Hope things change.,2026-06-17
+S1108,Prof. Gupta,Database Systems,4,"Evaluation bahut fair hai, marks sahi milte hain. Overall great experience.",2026-06-18
+S1192,Prof. Gupta,Database Systems,1,Notes aur study material bilkul nahi diye jaate.,2026-06-18
+S1156,Dr. Verma,Data Structures,3,"Behaviour is okay, not very friendly but not rude. Chal jata hai.",2026-06-18
+S1114,Dr. Singh,Operating Systems,3,"Best teacher, makes the subject interesting and easy to follow. Overall great experience.",2026-06-20
+S1045,Dr. Verma,Data Structures,3,"Assignments theek the, thoda zyada the but manageable. Could be better.",2026-06-20
+S1075,Dr. Singh,Operating Systems,2,Sir hamesha late aate hain aur class jaldi khatam kar dete hain. Hope things change.,2026-06-21
+S1052,Prof. Mishra,Artificial Intelligence,1,"Terrible teaching, we have to study everything on our own.",2026-06-21
+S1214,Prof. Sharma,Artificial Intelligence,1,Sir hamesha late aate hain aur class jaldi khatam kar dete hain.,2026-06-22
+S1153,Dr. Verma,Data Structures,5,Respectful teacher who motivates the whole class.,2026-06-23
+S1150,Prof. Mishra,Artificial Intelligence,1,Notes aur study material bilkul nahi diye jaate. Needs improvement.,2026-06-23
+S1031,Prof. Gupta,Database Systems,3,"Behaviour is okay, not very friendly but not rude. Could be better.",2026-06-24
+S1158,Dr. Verma,Data Structures,4,Syllabus is up to date and very relevant for placements. Keep it up sir.,2026-06-24
+S1045,Dr. Verma,Data Structures,4,"Great teacher, always patient and the lectures are engaging. Mazaa aa gaya.",2026-06-25
+S1243,Dr. Singh,Operating Systems,5,"Great teacher, always patient and the lectures are engaging. Mazaa aa gaya.",2026-06-25
+S1114,Prof. Sharma,Artificial Intelligence,4,Exams are fair and the paper was based on what was taught.,2026-06-25
+S1168,Dr. Singh,Operating Systems,2,Too many assignments and the deadlines are unreasonable.,2026-06-26
+S1285,Dr. Singh,Operating Systems,1,Teacher is rude and does not respect students. Bahut disappointing hai.,2026-06-27
+S1181,Dr. Singh,Operating Systems,4,"Exam was moderate, some questions were tricky.",2026-06-27
+S1055,Dr. Singh,Operating Systems,5,Exams are fair and the paper was based on what was taught. Overall great experience.,2026-06-27
+S1263,Prof. Gupta,Database Systems,2,Too many assignments and the deadlines are unreasonable.,2026-06-27
+S1154,Prof. Gupta,Database Systems,3,"Content theek hai, par examples aur hone chahiye.",2026-06-27
+S1154,Dr. Singh,Operating Systems,5,"Lab sessions are very useful, practical knowledge mila.",2026-06-29
+S1123,Prof. Sharma,Artificial Intelligence,4,"Lab sessions are very useful, practical knowledge mila. Highly recommended!",2026-06-30
+S1071,Prof. Gupta,Database Systems,4,Good lab guidance and the experiments are well planned.,2026-06-30
+S1106,Dr. Verma,Data Structures,5,Study material is well organised and easy to follow. Highly recommended!,2026-06-30
+S1207,Dr. Singh,Operating Systems,3,"Content theek hai, par examples aur hone chahiye. Overall okay.",2026-07-01
+S1241,Prof. Sharma,Artificial Intelligence,3,"Exam was moderate, some questions were tricky. Chal jata hai.",2026-07-02
+S1224,Prof. Gupta,Database Systems,3,"Lab work is okay, nothing great.",2026-07-02
+S1251,Prof. Gupta,Database Systems,2,Teacher does not clear doubts and ignores our questions. Bahut disappointing hai.,2026-07-02
+S1144,Dr. Singh,Operating Systems,3,"Teacher theek hain, kabhi kabhi class late start hoti hai. Could be better.",2026-07-03
+S1237,Dr. Verma,Data Structures,5,Respectful teacher who motivates the whole class.,2026-07-03
+S1201,Dr. Singh,Operating Systems,3,Lab is fine but sometimes the systems are slow. Could be better.,2026-07-03
+S1078,Prof. Gupta,Database Systems,3,"Behaviour is okay, not very friendly but not rude. Chal jata hai.",2026-07-04
+S1155,Dr. Singh,Operating Systems,5,Exams are fair and the paper was based on what was taught. Overall great experience.,2026-07-04
+S1191,Prof. Sharma,Artificial Intelligence,4,"Lab sessions are very useful, practical knowledge mila.",2026-07-04
