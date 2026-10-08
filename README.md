@@ -5,7 +5,36 @@ Students give a **rating (1-5) + comment** for a teacher/subject. The system use
 2. tag the **topic** (Teaching, Labs, Exams, Course Content, Behaviour),
 3. produce **teacher-wise / subject-wise / topic-wise analysis** and a dashboard.
 
-## Run it (3 commands)
+## Web app (React + FastAPI)  <- main frontend
+```
+Browser (React + Vite)  <--/api-->  FastAPI (api/main.py)  -->  src/ (ML, analysis)  -->  data/*.csv
+```
+Pages: **Overview** (report cards with grade stamps, topic problems, trend, heatmap, word lists), **Give feedback** (students submit rating + comment; the model tags it and it is saved to the CSV), **Teacher report**, **Analyze a comment**, **Model** (metrics, confusion matrix).
+
+**Option A - one server, needs only Python:**
+```bash
+pip install -r requirements.txt
+python src/run_pipeline.py                 # once: builds data, model, charts
+uvicorn api.main:app --port 8000           # open http://localhost:8000 (serves the built React app in frontend/dist)
+```
+**Option B - development with hot reload (needs Node.js 18+):**
+```bash
+# terminal 1 (project root)
+uvicorn api.main:app --reload --port 8000
+# terminal 2
+cd frontend && npm install && npm run dev  # open http://localhost:5173
+```
+Rebuild the React app after editing it: `cd frontend && npm run build`. API docs: http://localhost:8000/docs
+
+| Endpoint | Purpose |
+|---|---|
+| `GET /api/summary`, `/api/teachers`, `/api/teachers/{name}`, `/api/topics`, `/api/trend`, `/api/heatmap`, `/api/highlights`, `/api/words`, `/api/model` | analysis data for the dashboard |
+| `POST /api/predict` | sentiment + topic for one comment (not saved) |
+| `POST /api/feedback` | validate, predict, and save a new student feedback row |
+
+The Streamlit dashboard (`streamlit run app.py`) still works as a simpler alternative.
+
+## Run the ML pipeline only
 ```bash
 python -m venv venv && venv\Scripts\activate        # Windows  (Linux/Mac: source venv/bin/activate)
 pip install -r requirements.txt
@@ -19,7 +48,9 @@ data/        feedback.csv (450 comments), feedback_clean.csv (cleaned + topic + 
 src/         config, generate_dataset, preprocess, train_model, topics, analysis, predict, visualize, run_pipeline
 models/      sentiment_model.pkl (TF-IDF + Logistic Regression)
 outputs/     charts (.png), metrics, teacher/subject/topic reports (.csv)
-app.py       Streamlit dashboard + live comment predictor
+api/         FastAPI backend (main.py)
+frontend/    React + Vite app (src/pages, src/components, src/styles.css; dist/ = built app)
+app.py       Streamlit dashboard + live comment predictor (alternative frontend)
 ```
 
 ## Task -> file mapping
@@ -31,7 +62,7 @@ app.py       Streamlit dashboard + live comment predictor
 | T5 | Keyword-based topic extraction | `src/topics.py` |
 | T6 | Teacher/subject/topic analysis, top praises/complaints, mismatches, auto summary | `src/analysis.py` |
 | T7 | Pie, bar, stacked bar, word cloud, heatmap, trend charts | `src/visualize.py` |
-| T8 | Dashboard + "try a comment" | `app.py`, `src/predict.py` |
+| T8 | Dashboard + "try a comment" | `frontend/` + `api/main.py` (React), `app.py` (Streamlit), `src/predict.py` |
 
 ## Results (test set, 90 comments)
 | Model | Accuracy | Macro F1 |

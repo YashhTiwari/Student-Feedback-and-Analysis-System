@@ -51,7 +51,7 @@ def teacher_sentiment_stacked(df):
 def wordcloud_fig(df, sentiment=None):
     d = df if sentiment is None else df[df["sentiment"] == sentiment]
     text = " ".join(d["clean_comment"])
-    wc = WordCloud(width=800, height=400, background_color="white", stopwords=STOPWORDS | {"bahut", "very"},
+    wc = WordCloud(width=800, height=400, background_color="white", stopwords=STOPWORDS | {"bahut", "very", "hope", "thing", "change", "need", "improvement", "please", "fix", "overall", "chal", "mazaa", "keep", "highly", "recommend", "okay"},
                    colormap="viridis" if sentiment is None else ("Greens" if sentiment == "positive" else "Reds"))
     wc.generate(text)
     fig, ax = plt.subplots(figsize=(8, 4))

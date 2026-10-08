@@ -42,19 +42,20 @@ def teacher_topic_matrix(df: pd.DataFrame, value="negative") -> pd.DataFrame:
 
 def top_words(df: pd.DataFrame, sentiment: str, n: int = 10) -> pd.DataFrame:
     words = " ".join(df.loc[df["sentiment"] == sentiment, "clean_comment"]).split()
-    skip = STOPWORDS | {"bahut", "very", "hain", "ho", "ke", "nahi_", "overall", "highly"}
+    skip = STOPWORDS | {"bahut", "very", "overall", "highly", "hope", "thing", "change", "need", "improvement",
+                        "please", "fix", "chal", "mazaa", "keep", "disappointing", "recommend", "okay"}
     counts = Counter(w for w in words if w not in skip and len(w) > 2)
     return pd.DataFrame(counts.most_common(n), columns=["word", "count"])
 
 
 def top_issues(df: pd.DataFrame, n: int = 5) -> pd.DataFrame:
     """Most repeated negative comments (base sentence only) -> the 'top complaints' list."""
-    neg = df[df["sentiment"] == "negative"]["comment"].str.split(". ").str[0].str.strip(". ")
+    neg = df[df["sentiment"] == "negative"]["comment"].str.split(". ", regex=False).str[0].str.strip(". ")
     return neg.value_counts().head(n).rename_axis("complaint").reset_index(name="count")
 
 
 def top_praises(df: pd.DataFrame, n: int = 5) -> pd.DataFrame:
-    pos = df[df["sentiment"] == "positive"]["comment"].str.split(". ").str[0].str.strip(". ")
+    pos = df[df["sentiment"] == "positive"]["comment"].str.split(". ", regex=False).str[0].str.strip(". ")
     return pos.value_counts().head(n).rename_axis("praise").reset_index(name="count")
 
 
