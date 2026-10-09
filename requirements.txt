@@ -7,3 +7,5 @@ wordcloud
 streamlit
 vaderSentiment
 joblib
+fastapi
+uvicorn[standard]
